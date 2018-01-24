@@ -1,0 +1,37 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6818)
+    Vendor:   ATI
+    VRAM:     2029 MB
+    Driver:   22.19.165.512
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Byn.Common.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Byn.Common.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Byn.WebRtcNetwork.Native.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\Byn.WebRtcNetwork.Native.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\WebRtcCSharp.dll (this message is harmless)
+Loading C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\WebRtcCSharp.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\chris\Dropbox\Projekte - Murauer\Game - Movie Drone Simulator\movie_drone_simulator_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
