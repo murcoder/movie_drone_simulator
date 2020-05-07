@@ -1,0 +1,131 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   26.21.14.4259
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Byn.Common.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Byn.Common.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Byn.WebRtcNetwork.Native.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\Byn.WebRtcNetwork.Native.dll into Unity Child Domain
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\WebRtcCSharp.dll (this message is harmless)
+Loading D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\WebRtcCSharp.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Bachleor\_git_movie_drone_simulator\Build\movie_drone_simulator_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Meshmerizer::ExtractHullPolygons: line strip extraction failed
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 742)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "RotorVorneRechts2". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+Meshmerizer::ExtractHullPolygons: line strip extraction failed
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 742)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "RotorHintenRechts2". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+Meshmerizer::ExtractHullPolygons: line strip extraction failed
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 742)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "RotorHintenRechts1". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+Meshmerizer::ExtractHullPolygons: line strip extraction failed
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 742)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "RotorVorneLinks2". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+Meshmerizer::ExtractHullPolygons: line strip extraction failed
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 742)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "RotorHintenLinks2". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+Meshmerizer::ExtractHullPolygons: line strip extraction failed
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 742)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "RotorHintenLinks1". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+Meshmerizer::ExtractHullPolygons: line strip extraction failed
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 742)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "RotorVorneLinks1". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+UnloadTime: 0.672900 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.965700 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2945.
+Total: 3.013800 ms (FindLiveObjects: 0.107200 ms CreateObjectMapping: 0.028800 ms MarkObjects: 0.401600 ms  DeleteObjects: 2.475600 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4178 -> priority: 1 
